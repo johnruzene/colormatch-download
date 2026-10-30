@@ -1,7 +1,7 @@
 {
- "version": "0.15.3",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.3/resolve-color-match-0.15.3.zip",
- "asset": "resolve-color-match-0.15.3.zip",
- "sha256": "6b51d13908ad1f7cb4414ad29d8a26c5a921a22b54a4283c560a5c8d851b022a",
- "notes": "Passos no topo do centro, Gerar LUT sobe e ganha espa\u00e7o do Comparar"
+ "version": "0.15.4",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.4/resolve-color-match-0.15.4.zip",
+ "asset": "resolve-color-match-0.15.4.zip",
+ "sha256": "4c94aab439f4d103e96b414bfd067626bd9ba50bef04292b1d0ab63d5d586361",
+ "notes": "Bot\u00f5es Gerar LUT/Comparar na largura do painel de Ajustes (lateral mais estreita)"
 }
