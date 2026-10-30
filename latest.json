@@ -1,7 +1,7 @@
 {
- "version": "0.15.1",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.1/resolve-color-match-0.15.1.zip",
- "asset": "resolve-color-match-0.15.1.zip",
- "sha256": "2bbb508f1870df9567a0d46ca39a2031d88795502f3a9f61ea9173c88d59de8d",
- "notes": "Pente fino no visual: bot\u00f5es e paddings compactos, dicas viram tooltip, relat\u00f3rio na barra de baixo, janela sempre cabe na tela"
+ "version": "0.15.2",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.2/resolve-color-match-0.15.2.zip",
+ "asset": "resolve-color-match-0.15.2.zip",
+ "sha256": "0cd92a2485c249e5231d772facd928e94a10ae892334f689f066f49eb14322f8",
+ "notes": "Mais espa\u00e7amento entre bot\u00f5es, imagens e cart\u00f5es"
 }
