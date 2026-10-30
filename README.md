@@ -3,7 +3,7 @@
 Gerador de LUT: você escolhe uma imagem sua e uma referência de cor, e o app gera um `.cube` para usar no DaVinci Resolve (ou qualquer editor).
 
 ## Baixar
-Vá em **[Releases](../../releases/latest)** e baixe o arquivo `ColorMatch-v0.13.0-teste.dmg`.
+Baixe o arquivo `ColorMatch-teste.dmg` em **[Instalador](../../releases/tag/instalador)**. Só precisa baixar uma vez: depois o app se atualiza sozinho ao abrir (aparece um botão "Nova versão · Reiniciar").
 
 ## Instalar (Mac com chip Apple: M1, M2, M3...)
 1. Abra o `.dmg` e arraste **Color Match** para a pasta **Aplicativos**.
