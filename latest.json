@@ -1,7 +1,7 @@
 {
- "version": "0.15.5",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.5/resolve-color-match-0.15.5.zip",
- "asset": "resolve-color-match-0.15.5.zip",
- "sha256": "372bc3333283873ca9b9576a8b5fe6d1b8293409350cf60c7032c1675906ab18",
- "notes": "Modo Foco esconde a lateral esquerda inteira; imagens ocupam o espa\u00e7o"
+ "version": "0.16.0",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.16.0/resolve-color-match-0.16.0.zip",
+ "asset": "resolve-color-match-0.16.0.zip",
+ "sha256": "ee8177d07f6442db5fdc5d6c41d279756a81f3b47b50d4b11d147c3cd0b24bb2",
+ "notes": "Redimensionar Resultado/Refer\u00eancia: arrastar a divis\u00f3ria ou rolar o scroll sobre a imagem"
 }
