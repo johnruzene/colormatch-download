@@ -1,7 +1,7 @@
 {
- "version": "0.14.2",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.14.2/resolve-color-match-0.14.2.zip",
- "asset": "resolve-color-match-0.14.2.zip",
- "sha256": "a6bf1af6154c4c28ae98ed5411a86d939428f0eb0a12576d40d593d74e25512c",
- "notes": "Novo: se\u00e7\u00e3o C\u00e9u (tom, satura\u00e7\u00e3o e brilho s\u00f3 no c\u00e9u)"
+ "version": "0.14.3",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.14.3/resolve-color-match-0.14.3.zip",
+ "asset": "resolve-color-match-0.14.3.zip",
+ "sha256": "a5bb3f6099a7ffd465c1b9de53b4fc8e365203092ef8d3261f38158287dbc3a5",
+ "notes": "C\u00e9u: detector novo (posi\u00e7\u00e3o + luz, como o de pele) e bot\u00e3o 'Ver o que o app trata como c\u00e9u'"
 }
