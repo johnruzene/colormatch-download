@@ -1,7 +1,7 @@
 {
- "version": "0.15.2",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.2/resolve-color-match-0.15.2.zip",
- "asset": "resolve-color-match-0.15.2.zip",
- "sha256": "0cd92a2485c249e5231d772facd928e94a10ae892334f689f066f49eb14322f8",
- "notes": "Mais espa\u00e7amento entre bot\u00f5es, imagens e cart\u00f5es"
+ "version": "0.15.3",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.3/resolve-color-match-0.15.3.zip",
+ "asset": "resolve-color-match-0.15.3.zip",
+ "sha256": "6b51d13908ad1f7cb4414ad29d8a26c5a921a22b54a4283c560a5c8d851b022a",
+ "notes": "Passos no topo do centro, Gerar LUT sobe e ganha espa\u00e7o do Comparar"
 }
