@@ -1,7 +1,7 @@
 {
- "version": "0.15.0",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.0/resolve-color-match-0.15.0.zip",
- "asset": "resolve-color-match-0.15.0.zip",
- "sha256": "1262a3c7237faf9d6928848526e4ee6b1e8a5c3d6a663a450be65670fe563d40",
- "notes": "Layout para tela de 14\": Gerar LUT e Comparar no topo da lateral, biblioteca recolh\u00edvel (recolhe no Foco), topo compacto"
+ "version": "0.15.1",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.1/resolve-color-match-0.15.1.zip",
+ "asset": "resolve-color-match-0.15.1.zip",
+ "sha256": "2bbb508f1870df9567a0d46ca39a2031d88795502f3a9f61ea9173c88d59de8d",
+ "notes": "Pente fino no visual: bot\u00f5es e paddings compactos, dicas viram tooltip, relat\u00f3rio na barra de baixo, janela sempre cabe na tela"
 }
