@@ -1,7 +1,7 @@
 {
- "version": "0.14.3",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.14.3/resolve-color-match-0.14.3.zip",
- "asset": "resolve-color-match-0.14.3.zip",
- "sha256": "a5bb3f6099a7ffd465c1b9de53b4fc8e365203092ef8d3261f38158287dbc3a5",
- "notes": "C\u00e9u: detector novo (posi\u00e7\u00e3o + luz, como o de pele) e bot\u00e3o 'Ver o que o app trata como c\u00e9u'"
+ "version": "0.14.4",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.14.4/resolve-color-match-0.14.4.zip",
+ "asset": "resolve-color-match-0.14.4.zip",
+ "sha256": "279810a119e574b0cc6f1a2bd24f2493999d8bf4e48ca8aed5ef331cbc404aa1",
+ "notes": "Atualiza\u00e7\u00e3o aparece em at\u00e9 15 min (antes 6 h) e fura o cache do GitHub"
 }
