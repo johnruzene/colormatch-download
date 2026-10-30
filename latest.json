@@ -1,7 +1,7 @@
 {
- "version": "0.15.4",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.4/resolve-color-match-0.15.4.zip",
- "asset": "resolve-color-match-0.15.4.zip",
- "sha256": "4c94aab439f4d103e96b414bfd067626bd9ba50bef04292b1d0ab63d5d586361",
- "notes": "Bot\u00f5es Gerar LUT/Comparar na largura do painel de Ajustes (lateral mais estreita)"
+ "version": "0.15.5",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.15.5/resolve-color-match-0.15.5.zip",
+ "asset": "resolve-color-match-0.15.5.zip",
+ "sha256": "372bc3333283873ca9b9576a8b5fe6d1b8293409350cf60c7032c1675906ab18",
+ "notes": "Modo Foco esconde a lateral esquerda inteira; imagens ocupam o espa\u00e7o"
 }
