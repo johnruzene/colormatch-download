@@ -1,7 +1,7 @@
 {
- "version": "0.21.4",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.4/resolve-color-match-0.21.4.zip",
- "asset": "resolve-color-match-0.21.4.zip",
- "sha256": "691a70fbd2565057f854761aef0fda4d5f7e748a28bc698f16dda57eb5a8c87a",
- "notes": "Corrige o Reiniciar: reabre o app em vez de abrir a pasta"
+ "version": "0.21.5",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.5/resolve-color-match-0.21.5.zip",
+ "asset": "resolve-color-match-0.21.5.zip",
+ "sha256": "8738ba8ec47f618c44e8f2a9fa89af540baa1436433105c1d9b1a4af0aa29c0f",
+ "notes": "Pele: tinte, temperatura e tom juntos; trilhos dos sliders coloridos (verde\u2194magenta, frio\u2194quente etc.)"
 }
