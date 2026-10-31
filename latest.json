@@ -1,7 +1,7 @@
 {
- "version": "0.17.1",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.17.1/resolve-color-match-0.17.1.zip",
- "asset": "resolve-color-match-0.17.1.zip",
- "sha256": "f65c3588707a774d7aecbee3ccdbc5529f8c1f34e406c17fe489e7dd1fb5a4c2",
- "notes": "C\u00e2meras log: LUT calculada direto na grade de log, 129\u00b3 por padr\u00e3o (menos bandas no c\u00e9u), gamut suave"
+ "version": "0.18.0",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.18.0/resolve-color-match-0.18.0.zip",
+ "asset": "resolve-color-match-0.18.0.zip",
+ "sha256": "1b13a596eef5b973d4984c2873b3f80bc97b3035b859264f84aecdc349c30152",
+ "notes": "Biblioteca: refer\u00eancia selecionada destacada; apagar com Delete ou bot\u00e3o direito, com confirma\u00e7\u00e3o (vai para a Lixeira)"
 }
