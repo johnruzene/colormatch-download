@@ -1,7 +1,7 @@
 {
- "version": "0.21.1",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.1/resolve-color-match-0.21.1.zip",
- "asset": "resolve-color-match-0.21.1.zip",
- "sha256": "764f77bc3899a10b2b92cef652e1c41b55af857205a8efed3465e8095ce984f5",
- "notes": "Corrige: bot\u00e3o Foco agora fica vis\u00edvel no modo Foco (Foco/Biblioteca/Tema na linha das vistas)"
+ "version": "0.21.2",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.2/resolve-color-match-0.21.2.zip",
+ "asset": "resolve-color-match-0.21.2.zip",
+ "sha256": "04cb7bd867cf0c048ef9b9ba690473621e1c3c3352fc3f37e186dafd53f7214b",
+ "notes": "Corrige interruptores (ver pele, ver c\u00e9u, proteger pele): agora clicam na linha toda"
 }
