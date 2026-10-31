@@ -1,7 +1,7 @@
 {
- "version": "0.21.5",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.5/resolve-color-match-0.21.5.zip",
- "asset": "resolve-color-match-0.21.5.zip",
- "sha256": "8738ba8ec47f618c44e8f2a9fa89af540baa1436433105c1d9b1a4af0aa29c0f",
- "notes": "Pele: tinte, temperatura e tom juntos; trilhos dos sliders coloridos (verde\u2194magenta, frio\u2194quente etc.)"
+ "version": "0.22.0",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.22.0/resolve-color-match-0.22.0.zip",
+ "asset": "resolve-color-match-0.22.0.zip",
+ "sha256": "d0f15617fd8976bc535a3a2facef978921fc21fab5a63946c1ad7e83627f0b99",
+ "notes": "Pele: novo slider Alcance da sele\u00e7\u00e3o (mais/menos pele), com m\u00e1scara acompanhando"
 }
