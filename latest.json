@@ -1,7 +1,7 @@
 {
- "version": "0.16.0",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.16.0/resolve-color-match-0.16.0.zip",
- "asset": "resolve-color-match-0.16.0.zip",
- "sha256": "ee8177d07f6442db5fdc5d6c41d279756a81f3b47b50d4b11d147c3cd0b24bb2",
- "notes": "Redimensionar Resultado/Refer\u00eancia: arrastar a divis\u00f3ria ou rolar o scroll sobre a imagem"
+ "version": "0.17.0",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.17.0/resolve-color-match-0.17.0.zip",
+ "asset": "resolve-color-match-0.17.0.zip",
+ "sha256": "4295477a1feec931825d41960d6135f0bb0f68bf4d3a847e0312209103da5ae1",
+ "notes": "Arraste imagens direto sobre Sua imagem/Sua refer\u00eancia; novo seletor de c\u00e2mera (BMD, RED, Sony): LUT com entrada em log e sa\u00edda Rec.709"
 }
