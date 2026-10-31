@@ -1,7 +1,7 @@
 {
- "version": "0.19.0",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.19.0/resolve-color-match-0.19.0.zip",
- "asset": "resolve-color-match-0.19.0.zip",
- "sha256": "cb9529eeeaf5c2c0234a6326f8f8edfa7653b9d9a3c6cfb5134adf41364daf6a",
- "notes": "Tema branco (Auto/Claro/Escuro) e caixas de confirma\u00e7\u00e3o/menus leg\u00edveis em qualquer tema"
+ "version": "0.20.0",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.20.0/resolve-color-match-0.20.0.zip",
+ "asset": "resolve-color-match-0.20.0.zip",
+ "sha256": "5044335f4a45dec72fa9ae2237836c7e0ec95f6fcb159332f2d9e37b8a2652ff",
+ "notes": "Barra de menus (Arquivo/Visualizar/Biblioteca) e reiniciar sem janela dupla"
 }
