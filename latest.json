@@ -1,7 +1,7 @@
 {
- "version": "0.22.0",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.22.0/resolve-color-match-0.22.0.zip",
- "asset": "resolve-color-match-0.22.0.zip",
- "sha256": "d0f15617fd8976bc535a3a2facef978921fc21fab5a63946c1ad7e83627f0b99",
- "notes": "Pele: novo slider Alcance da sele\u00e7\u00e3o (mais/menos pele), com m\u00e1scara acompanhando"
+ "version": "0.22.1",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.22.1/resolve-color-match-0.22.1.zip",
+ "asset": "resolve-color-match-0.22.1.zip",
+ "sha256": "a4e9297db3ca7206d34fd8f30ca3987bb1af68073b75f8482bbb4092b8830d36",
+ "notes": "Corrige Preservar pele: agora funciona tamb\u00e9m quando o detector n\u00e3o acha pele (cenas escuras/quentes)"
 }
