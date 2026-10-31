@@ -1,7 +1,7 @@
 {
- "version": "0.17.0",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.17.0/resolve-color-match-0.17.0.zip",
- "asset": "resolve-color-match-0.17.0.zip",
- "sha256": "4295477a1feec931825d41960d6135f0bb0f68bf4d3a847e0312209103da5ae1",
- "notes": "Arraste imagens direto sobre Sua imagem/Sua refer\u00eancia; novo seletor de c\u00e2mera (BMD, RED, Sony): LUT com entrada em log e sa\u00edda Rec.709"
+ "version": "0.17.1",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.17.1/resolve-color-match-0.17.1.zip",
+ "asset": "resolve-color-match-0.17.1.zip",
+ "sha256": "f65c3588707a774d7aecbee3ccdbc5529f8c1f34e406c17fe489e7dd1fb5a4c2",
+ "notes": "C\u00e2meras log: LUT calculada direto na grade de log, 129\u00b3 por padr\u00e3o (menos bandas no c\u00e9u), gamut suave"
 }
