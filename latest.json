@@ -1,7 +1,7 @@
 {
- "version": "0.21.3",
- "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.3/resolve-color-match-0.21.3.zip",
- "asset": "resolve-color-match-0.21.3.zip",
- "sha256": "6c4a9c308431165540e98a001b735a77e7400f146477195905e280f919c6cfe6",
- "notes": "Bot\u00e3o Resetar todos os ajustes; evita travar ao fechar durante checagem de atualiza\u00e7\u00e3o"
+ "version": "0.21.4",
+ "url": "https://github.com/johnruzene/colormatch-download/releases/download/v0.21.4/resolve-color-match-0.21.4.zip",
+ "asset": "resolve-color-match-0.21.4.zip",
+ "sha256": "691a70fbd2565057f854761aef0fda4d5f7e748a28bc698f16dda57eb5a8c87a",
+ "notes": "Corrige o Reiniciar: reabre o app em vez de abrir a pasta"
 }
